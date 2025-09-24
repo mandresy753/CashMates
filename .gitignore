@@ -1,0 +1,41 @@
+# Dépendances
+/node_modules
+
+# Build output
+/dist
+/build
+
+# Supabase
+/supabase/.branches
+/supabase/.temp
+/supabase/functions/.netlify
+.supabase
+
+# Environnements sensibles
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Cache & outils
+/.cache
+/.vite
+/.turbo
+
+# Tests
+/coverage
+
+# OS spécifiques
+.DS_Store
+Thumbs.db
+
+# IDE / éditeurs
+.idea/
+.vscode/
+*.swp
