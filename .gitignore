@@ -10,7 +10,7 @@
 /supabase/.temp
 /supabase/functions/.netlify
 .supabase
-
+.bolt/
 # Environnements sensibles
 .env
 .env.local
